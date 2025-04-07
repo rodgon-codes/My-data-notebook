@@ -1,5 +1,6 @@
 # My-data-notebook
-This will be my learning home. Goal is to be emerge in Political - Social data analysis and engineering 
+This will be my learning home for 2025.
+→ Goal: To immerse myself in political and social data — building skills in analysis, data engineering, and creative insights.
 
 ## Roadmap 
 ``` mermaid
